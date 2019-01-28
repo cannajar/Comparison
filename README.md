@@ -1,1 +1,1 @@
-# Comparison/Resources
+# Comparison
